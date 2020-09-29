@@ -1,0 +1,13 @@
+C:\Users\Domovou\source\repos\Kw_1\Kw_1\bin\Debug\netcoreapp3.1\Kw_1.exe
+C:\Users\Domovou\source\repos\Kw_1\Kw_1\bin\Debug\netcoreapp3.1\Kw_1.deps.json
+C:\Users\Domovou\source\repos\Kw_1\Kw_1\bin\Debug\netcoreapp3.1\Kw_1.runtimeconfig.json
+C:\Users\Domovou\source\repos\Kw_1\Kw_1\bin\Debug\netcoreapp3.1\Kw_1.runtimeconfig.dev.json
+C:\Users\Domovou\source\repos\Kw_1\Kw_1\bin\Debug\netcoreapp3.1\Kw_1.dll
+C:\Users\Domovou\source\repos\Kw_1\Kw_1\bin\Debug\netcoreapp3.1\Kw_1.pdb
+C:\Users\Domovou\source\repos\Kw_1\Kw_1\obj\Debug\netcoreapp3.1\Kw_1.csprojAssemblyReference.cache
+C:\Users\Domovou\source\repos\Kw_1\Kw_1\obj\Debug\netcoreapp3.1\Kw_1.AssemblyInfoInputs.cache
+C:\Users\Domovou\source\repos\Kw_1\Kw_1\obj\Debug\netcoreapp3.1\Kw_1.AssemblyInfo.cs
+C:\Users\Domovou\source\repos\Kw_1\Kw_1\obj\Debug\netcoreapp3.1\Kw_1.csproj.CoreCompileInputs.cache
+C:\Users\Domovou\source\repos\Kw_1\Kw_1\obj\Debug\netcoreapp3.1\Kw_1.dll
+C:\Users\Domovou\source\repos\Kw_1\Kw_1\obj\Debug\netcoreapp3.1\Kw_1.pdb
+C:\Users\Domovou\source\repos\Kw_1\Kw_1\obj\Debug\netcoreapp3.1\Kw_1.genruntimeconfig.cache
