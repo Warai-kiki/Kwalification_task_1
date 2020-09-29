@@ -8,6 +8,9 @@ namespace Task_3
         {
             Console.OutputEncoding = System.Text.Encoding.Unicode;
 
+            int x = 0;
+            double y = 0;
+            long z = 0;
 
             while (true) {
                 try
