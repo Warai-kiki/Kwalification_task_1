@@ -17,7 +17,8 @@ namespace Task_3
                 {
                     Console.WriteLine("Введіть число типу int");
                     string a = Console.ReadLine();
-                    int x = Convert.ToInt32(a);
+                    int x1 = Convert.ToInt32(a);
+                    x = x1;
                     break;
                 }
                 catch
@@ -31,7 +32,8 @@ namespace Task_3
                 {
                     Console.WriteLine("Введіть число типу double");
                     string b = Console.ReadLine();
-                    double y = Convert.ToDouble(b);
+                    double y1 = Convert.ToDouble(b);
+                    y = y1;
                     break;
                 }
                 catch
@@ -45,7 +47,8 @@ namespace Task_3
                 {
                     Console.WriteLine("Введіть число типу long");
                     string c = Console.ReadLine();
-                    long z = Convert.ToInt64(c);
+                    long z1 = Convert.ToInt64(c);
+                    z = z1;
                     break;
                 }
                 catch
